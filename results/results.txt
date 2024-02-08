@@ -1,0 +1,175 @@
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: erat
+
+Document: document1.txt
+Count: 3
+--------------------
+Document: document2.txt
+Count: 4
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: affronting
+
+Document: document4.txt
+Count: 2
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: is
+
+Document: document3.txt
+Count: 2
+--------------------
+Document: document4.txt
+Count: 4
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+No results found.
+
+/////////////////
+
+Search Word: lorem
+
+No results found.
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: lorem
+
+Document: document1.txt
+Count: 12
+--------------------
+Document: document2.txt
+Count: 3
+--------------------
+
+/////////////////
+
+Search Word: adfawrwf
+
+No results found.
+
+/////////////////
+
+Search Word: erat
+
+Document: document1.txt
+Count: 3
+--------------------
+Document: document2.txt
+Count: 4
+--------------------
+
+/////////////////
+
+Search Word: erat
+
+Document: document1.txt
+Count: 3
+--------------------
+Document: document2.txt
+Count: 4
+--------------------
+
+/////////////////
+
+Search Word: ai
+
+No results found.
+
+/////////////////
+
